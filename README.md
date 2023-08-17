@@ -2,7 +2,7 @@
 
 ![](fig_VOMM-1.png)
 
-VOMM is a vision dataset specially designed for the evaluation of the DL-based object detection performance in terahertz (THz) UDN scenarios.
+VOMM is a vision dataset specially designed for the evaluation of the deep learning (DL)-based object detection performance in terahertz (THz) ultra-dense network (UDN) scenarios.
 It consists of 232 pairs of RGB and depth images.
 
 For more details of this work, see the paper "Sensing and Computer Vision-Aided Mobility Management for 6G Millimeter and Terahertz
