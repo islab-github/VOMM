@@ -3,10 +3,8 @@
 ![](fig_VOMM-1.png)
 
 VOMM is a vision dataset specially designed for the evaluation of the deep learning (DL)-based object detection performance in terahertz (THz) ultra-dense network (UDN) scenarios.
-It consists of 232 pairs of RGB and depth images.
+It consists of 232 pairs of RGB and depth images acquired at the viewpoint of multiple SBSs.
 
-For more details of this work, see the paper "Sensing and Computer Vision-Aided Mobility Management for 6G Millimeter and Terahertz
-Communication Systems", in preparation for IEEE Transactions on Communications http://isl.snu.ac.kr/publication.
 
 ## Preparation
 Please download the VOMM dataset from https://www.dropbox.com/scl/fo/p5bbr2x6ka2z3xly4a9v5/h?rlkey=tt22bbc095vxlcu8savk595p0&dl=0.
